@@ -1,0 +1,6 @@
+transformers
+torch
+datasets
+requests
+beautifulsoup4
+streamlit
